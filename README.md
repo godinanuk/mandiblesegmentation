@@ -14,3 +14,6 @@ CycleGAN model for segmenting Mandibles from Panoramic Dental X-rays
 
 <p align="center"><img width="80%" src="loss_chart.png" /></p>
 <p align="center"><b>Plot of Generator Loss vs Discriminator Loss</b></p>
+
+<p align="center"><img width="80%" src="test_results.png" /></p>
+<p align="center"><b>Test results</b></p>
