@@ -11,3 +11,5 @@ CycleGAN model for segmenting Mandibles from Panoramic Dental X-rays
 
 **Best training DSC  metric achieved is 0.9846**
 
+<b>Plot of Generator Loss vs Discriminator Loss</b>
+<p align="center"><img width="80%" src="loss_chart.png" /></p>
