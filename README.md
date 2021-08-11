@@ -1,4 +1,4 @@
-# mandiblesegmentation
+# Mandible Segmentation
 CycleGAN model for segmenting Mandibles from Panoramic Dental X-rays
 
 |          Hyperparameter                                           |        Value         |
